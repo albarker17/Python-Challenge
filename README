@@ -1,2 +1,29 @@
 READ.ME
 Module 3 Challenge
+Welcome to the world of Python! In this challenge I completed two Python challenge, PyBank and PyPoll. Both challenges represent real-world situations to put my new Python skills to work!
+
+First, I created a repository called Python-Challenge and cloned it to my computer and created folders for each challenge: PyBank and PyPoll and included the necessary files and folders for the resources and Analysis
+
+In the PyBank Challenge I analyzed financial records for a given dataset composed of a column of "Date" and Profit/Losses". I then created a script that analyzed the records to find the following info:
+
+- the total number of months inlcuded within the dataset
+- the net total amount of profit/losses over the time period
+- the changes of profit/losses over the time period and the average of those changes
+- the greatest increase in profits (data and amount) over the entire period
+- the greatest decrease in profits (date and amount) over the entire period
+
+Then I printed the results to the terminal and exported a text file with the results as well. 
+
+
+On to the PyPoll challenge! In this challenge, I helped a small town modernize its vote counting process. I looked at their poll data composed of three columns: "Voter ID", "County" , and "Candidate" and created a script that analyzes those votes and calculates the following:
+
+- the total number of votes
+- a list of candidates who received votes
+- the percentage of votes that each candidate received
+- the total number of votes each candidate won
+- and the winner of the election based on the popular vote!
+
+Then I printed the results to the terminal and exported a test file with the results as well. 
+
+
+Hooray!
